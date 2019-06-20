@@ -38,6 +38,7 @@
     <module>mail</module>
     <module>rpc</module>
     <module>test</module>
+    <module>rbac</module>
   </modules>
   
   <!--版本管理-->
